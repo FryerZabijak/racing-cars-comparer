@@ -1,6 +1,8 @@
 # Racing Cars Comparer
 
-Projekt byl vytvořen v jazyce Python verze 3.8.5.
+## Projekt obsahuje konzolovou aplikaci pro správu databáze automobilů a simulaci závodů mezi nimi.
+
+Projekt byl vytvořen v jazyce Python
 
 ## Struktura projektu
 
