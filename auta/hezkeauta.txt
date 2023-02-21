@@ -1,0 +1,2 @@
+Značka | Model | Barva | Zrychlení | Rychlost Max
+Bentley, XA50, Černá, 50, 300

@@ -1,0 +1,32 @@
+Značka | Model | Barva | Zrychlení | Rychlost Max
+Škoda, Fabia, Červená, 30, 200
+Porsche, 911, Bílá, 50, 350
+BMW, X5, Černá, 40, 280
+Audi, A6, Stříbrná, 35, 250
+Mercedes-Benz, S500, Modrá, 45, 300
+Toyota, Corolla, Žlutá, 25, 180
+Volkswagen, Golf, Zelená, 30, 200
+Ford, Mustang, Oranžová, 50, 350
+Honda, Civic, Modrá, 25, 190
+Ferrari, 458 Italia, Červená, 60, 350
+Chevrolet, Camaro, Černá, 45, 320
+Nissan, GT-R, Bílá, 55, 330
+Maserati, Quattroporte, Červená, 50, 300
+Renault, Megane, Oranžová, 35, 240
+Subaru, WRX STI, Modrá, 35, 250
+McLaren, P1, Žlutá, 70, 350
+Aston Martin, DB11, Modrá, 45, 320
+Lamborghini, Aventador, Černá, 60, 350
+Pagani, Huayra, Bílá, 60, 360
+Koenigsegg, Jesko, Červená, 80, 400
+Bugatti, Chiron, Modrá, 75, 420
+Bentley, Continental, Černá, 55, 320
+Rolls-Royce, Ghost, Bílá, 40, 240
+Jaguar, F-Type, Červená, 45, 300
+Mclaren, 720S, Oranžová, 60, 330
+Aston Martin, Vantage, Modrá, 50, 320
+Porsche, Panamera, Černá, 40, 280
+Mercedes-Benz, AMG GT, Žlutá, 55, 330
+Lexus, LC, Červená, 50, 300
+Ferrari, F8 Tributo, Černá, 60, 350
+Chevrolet, Corvette, Oranžová, 45, 320

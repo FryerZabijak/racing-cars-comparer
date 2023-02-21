@@ -1,0 +1,30 @@
+Značka | Model | Barva | Zrychlení | Rychlost Max
+Volkswagen, Beetle, Modrá, 25, 140
+Ford, Mustang, Červená, 40, 220
+Chevrolet, Camaro, Oranžová, 50, 280
+Cadillac, Eldorado, Zlatá, 30, 180
+Pontiac, GTO, Černá, 40, 240
+Dodge, Charger, Žlutá, 45, 260
+Ford, Thunderbird, Bílá, 35, 200
+Chevrolet, Corvette, Červená, 50, 300
+Porsche, 356, Stříbrná, 35, 180
+Jaguar, E-type, Modrá, 40, 250
+Mercedes-Benz, 300SL, Stříbrná, 45, 250
+Alfa Romeo, Spider, Červená, 35, 200
+Ferrari, 250 GT, Modrá, 50, 280
+Aston Martin, DB5, Stříbrná, 45, 240
+Jaguar, XK120, Zelená, 30, 190
+Triumph, TR3, Červená, 30, 160
+MG, MGB, Oranžová, 35, 190
+Lotus, Elan, Bílá, 35, 200
+Aston Martin, DB4, Zelená, 45, 250
+Chevrolet, Bel Air, Růžová, 30, 170
+Ford, Fairlane, Modrá, 40, 220
+Pontiac, Firebird, Červená, 45, 270
+Mercury, Cougar, Zelená, 35, 210
+Oldsmobile, 442, Černá, 45, 260
+Dodge, Dart, Žlutá, 30, 170
+Plymouth, Barracuda, Oranžová, 40, 240
+Buick, Riviera, Modrá, 35, 200
+Lincoln, Continental, Černá, 30, 180
+Cadillac, Coupe DeVille, Bílá, 30, 180
